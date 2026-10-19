@@ -5,7 +5,7 @@ module schematic1(
 
 wire X2, X6;
 
-assign Q0 = X2;
+assign Q = X2;
 
 
 dff U2 (
